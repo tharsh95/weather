@@ -11,7 +11,7 @@
   flex-wrap: wrap;
   height: 50vh;
   /* align-items: center;   */
-  color: black;
+  color: rgb(9, 9, 26);
 }
 body{
   user-select: none;
