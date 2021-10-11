@@ -59,7 +59,7 @@ function App() {
     return (
         <div className='main' style={{
             backgroundImage: `url(${image})`, backgroundSize: '100%',
-            backgroundRepeat: 'no-repeat',
+            backgroundRepeat: 'repeat',
             height: '100vh'
         }}>
             <div id='header'>

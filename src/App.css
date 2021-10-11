@@ -3,10 +3,12 @@
   justify-content: center;
   align-items: center;
   height: 25vh;
+  flex-wrap: wrap;
 }
 #city{
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   height: 50vh;
   /* align-items: center;   */
   color: black;
@@ -47,4 +49,7 @@ body{
 }
 #header h1>span{
   color: red;
+}
+@media (min-width:500px) and (max-width:900px){
+
 }
